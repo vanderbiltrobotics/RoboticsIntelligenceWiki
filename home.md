@@ -9,4 +9,10 @@ This wiki is divided into three main sections:
 
 Each of these subpages contain subpages and articles describing specific topics in detail. The landing page for each of these pages will list all of the subsections and articles under that topic.
 
+# Navigation
+There are a few ways you can find the articles you are searching for.
+* Click on the links above to find the articles and subsections related to that specific topic. Jump through these landing pages until you find the article.
+* Click on the `All Pages` button on the navigation bar on the left. This will list the hierarchy of subsections and pages in the navigation bar, which you can follow to find the article.
+* Use the search bar at the top to search for keywords in the article.
+
 
