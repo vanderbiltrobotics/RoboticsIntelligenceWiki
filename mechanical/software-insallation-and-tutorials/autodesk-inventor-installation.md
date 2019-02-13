@@ -1,5 +1,5 @@
 <!-- TITLE: Autodesk Inventor Installation -->
-<!-- SUBTITLE: A quick summary of Autodesk Inventor Installation -->
+<!-- SUBTITLE: Step-by-step instructions to install Autodesk Inventor -->
 
 # Header
-Sample
+Sample text
