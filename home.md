@@ -30,6 +30,6 @@ Let's say you were writing an article about selecting roller element bearings.
 # Creating an Account
 We have configured the wiki to use your Slack account (associated with the `vanderbiltrobotics` workspace to login). 
 
-Click on the `login` button on the left navigation bar and click `login using Slack`. **If it gives you an error, message `Swapnil` on Slack to give you permissions to edit the website.**
+Click on the `login` button on the left navigation bar and click `login using Slack`. **If it gives you an error, message Swapnil on Slack to give you permissions to edit the website.**
 
 
