@@ -28,6 +28,8 @@ Let's say you were writing an article about selecting roller element bearings.
 5. To maintain the organization of the website, you need to **add a link to the article in the subsection page**. For the example, you would go to `https://wiki.vur.ddns.net/mechanical/part-selection` and click edit. Add the link using the Markdown syntax in the `Table of Contents` section. 
 
 # Creating an Account
-We have configured the wiki to use your Slack account (associated with the `vanderbiltrobotics` workspace to login). Click on the `login` button on the left navigation bar and click `login using Slack`. **If it gives you an error, message `Swapnil` on Slack to give you permissions to edit the website.**
+We have configured the wiki to use your Slack account (associated with the `vanderbiltrobotics` workspace to login). 
+
+Click on the `login` button on the left navigation bar and click `login using Slack`. **If it gives you an error, message `Swapnil` on Slack to give you permissions to edit the website.**
 
 
