@@ -15,7 +15,7 @@ There are a few ways you can find the articles you are searching for.
 * Click on the `All Pages` button on the navigation bar on the left. This will list the hierarchy of subsections and pages in the navigation bar, which you can follow to find the article.
 * Use the search bar at the top to search for keywords in the article.
 
-# How to write an article
+# How to Write an Article
 You've found a topic you need to document. That's great! You just need to follow a few simple steps and you'll be writing your article in no time! 
 
 Before you start this process, make sure you are logged in. Follow the instructions in [Creating an Account](#creating-an-account) if you've never logged in before.
