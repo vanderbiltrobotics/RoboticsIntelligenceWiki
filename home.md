@@ -1,4 +1,4 @@
 <!-- TITLE: Vanderbilt Robotics Intelligence Wiki  -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- SUBTITLE: Your One Stop Shop for All Things Robotics -->
 
 # Header
