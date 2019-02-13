@@ -27,4 +27,7 @@ Let's say you were writing an article about selecting roller element bearings.
 4. Write the article using Markdown syntax. If you've never used Markdown before, here's a [quick cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). (You can come back and edit the article later)
 5. To maintain the organization of the website, you need to **add a link to the article in the subsection page**. For the example, you would go to `https://wiki.vur.ddns.net/mechanical/part-selection` and click edit. Add the link using the Markdown syntax in the `Table of Contents` section. 
 
+# Creating an Account
+We have configured the wiki to use your Slack account (associated with the `vanderbiltrobotics` workspace to login). Click on the `login` button on the left navigation bar and click `login using Slack`. **If it gives you an error, message `Swapnil` on Slack to give you permissions to edit the website.**
+
 
