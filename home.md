@@ -18,7 +18,7 @@ There are a few ways you can find the articles you are searching for.
 # How to write an article
 You've found a topic you need to document. That's great! You just need to follow a few simple steps and you'll be writing your article in no time! 
 
-Before you start this process, make sure you are logged in. Follow the instructions in [Creating an Account](#Creating_An_Account) if you've never logged in before.
+Before you start this process, make sure you are logged in. Follow the instructions in [Creating an Account](#Creating-an-Account) if you've never logged in before.
 
 Let's say you were writing an article about selecting roller element bearings.
 1. Navigate to the correct subsection in which your article belongs. For the example, it would be Mechanical --> Part Selection. 
