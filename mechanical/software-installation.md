@@ -1,5 +1,5 @@
-<!-- TITLE: Software Installation -->
-<!-- SUBTITLE: Articles about installation procedures for the various softwares used by the mechanical team -->
+<!-- TITLE: Software Installation and Tutorials -->
+<!-- SUBTITLE: Articles about installation procedures and basic tutorials for the various softwares used by the mechanical team -->
 
 # Table of Contents
 * Autodesk Inventor
