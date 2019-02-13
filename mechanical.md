@@ -1,4 +1,5 @@
 <!-- TITLE: Mechanical -->
 <!-- SUBTITLE: A quick summary of Mechanical -->
 
-# Header
+# Table of Contents
+* [Part Selection](./mechanical/part-selection)
