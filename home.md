@@ -15,4 +15,12 @@ There are a few ways you can find the articles you are searching for.
 * Click on the `All Pages` button on the navigation bar on the left. This will list the hierarchy of subsections and pages in the navigation bar, which you can follow to find the article.
 * Use the search bar at the top to search for keywords in the article.
 
+# How to write an article
+You've found a topic you need to document. That's great! You just need to follow a few simple steps and you'll be writing your article in no time! 
+
+Before you start this process, make sure you are logged in. Follow the instructions in [Creating an Account](#Creating_An_Account) if you've never logged in before.
+
+Let's say you were writing an article about selecting roller element bearings.
+1. Navigate to the correct subsection in which your article belongs. For the example, it would be Mechanical --> Part Selection. Once you are on the landing page for the section, click on `Create` in the top right corner. The path for subsections should already be filled in for you. Just add the title of the article at the end of the path. 
+
 
