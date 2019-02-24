@@ -4,4 +4,11 @@
 ![Shafts](/uploads/shafts.png "Shafts")
 
 # Purpose
-Shafts are a fundamental machine component used to transmit motion from a motor to other systems. If your system requires rotary motion, you will probably be using a shaft.
+Shafts are a fundamental machine component used to transmit motion from a motor to other systems. If your system requires rotary motion, you will probably be using a shaft. Shafts are usually used along with motors, shaft couplers, keys, and retaining rings. 
+
+# Types
+## Keyed Shaft
+## D-Profile Shaft
+
+# Stepped Down Shafts
+# Retaining Ring Grooves
