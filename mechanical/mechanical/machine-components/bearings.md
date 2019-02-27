@@ -16,9 +16,9 @@ Has to be pressed up against a retaining ring, stepped shaft, or something simil
 Also has to be pressed up against a retaing ring, steeped shaft, or something similar. Resists axial and a small amount of radial load (not meant to). Can be something as simple as a washer.
 ![Thrust](/uploads/thrust.png "Thrust")
 ## Angular-Contact or Tapered
-
-
-
+Pushes the ball bearings against an angled side inside the bearing - allowing it to resist both axial and radial load well.
+![Tapered](/uploads/tapered.png "Tapered")
 # When to Use (what you're probably here for)
+The short answer is that you use a bearing when you want to constrain/support a moving part. 
 # How to House a Bearing
 
