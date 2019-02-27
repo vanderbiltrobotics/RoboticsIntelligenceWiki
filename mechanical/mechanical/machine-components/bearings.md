@@ -19,6 +19,10 @@ Also has to be pressed up against a retaing ring, steeped shaft, or something si
 Pushes the ball bearings against an angled side inside the bearing - allowing it to resist both axial and radial load well.
 ![Tapered](/uploads/tapered.png "Tapered")
 # When to Use (what you're probably here for)
-The short answer is that you use a bearing when you want to constrain/support a moving part. 
-# How to House a Bearing
+The short answer is that you use a bearing when you want to constrain/support a moving part without creating much friction. 
 
+
+# How to House a Bearing
+If you can, try to buy a flanged bearing, which you simply need to bolt to a plate to attach. However, these are often heavy and too big to fit in the intended application.
+
+Otherwise, you have to make your own bearing housing, which requires the careful milling of a hole, slightly undersized so there's a press fit (it "squishes" in). There's a lot of science and testing done by engineers before us, but for our applications, 1~2 thou per inch diameter is very typical. More about press fits and milling using a boring bar can be found ___.
