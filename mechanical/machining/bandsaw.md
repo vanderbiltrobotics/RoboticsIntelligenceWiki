@@ -27,5 +27,5 @@ __How to Use__
 7. Once comfortable with the rate, let gravity control the arm dropping and allow the blade to cut through the piece
 8. Once the cut has been finished, turn off the blade and remove part. Be careful- part may be hot after the cut.
 # Safety
-# Materials that can be Cut
+# Materials that can be cut
 
