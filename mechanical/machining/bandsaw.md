@@ -1,6 +1,8 @@
 <!-- TITLE: Bandsaw -->
 <!-- SUBTITLE: A Bandsaw is a power saw with a long blade that can make either horizontal or vertical cuts. It can cut a variety of materials with different sizes. -->
 
+More Information: 
+
 # Types
 ## Vertical Bandsaw
 A vertical bandsaw is a stationary blade that allows for the machinist to move their workpiece into the blade. This allows for complex shapes and angles to be cut out of the workpiece.
@@ -24,9 +26,11 @@ __How to Use__
 4. Tighten the clamp on the workpiece.
 5. Start the blade.
 6. Adjust the rate of the arm being lowered by turning the knob.
-7. Once comfortable with the rate, let gravity control the arm dropping and allow the blade to cut through the piece
+7. Once comfortable with the rate, let gravity control the arm dropping and allow the blade to cut through the piece.
 8. Once the cut has been finished, turn off the blade and remove part. Be careful- part may be hot after the cut.
 # Safety
+* Know where the E- Stop is
+* If the material is too long 
 # Materials that can be cut
 * Wood
 * Aluminum
