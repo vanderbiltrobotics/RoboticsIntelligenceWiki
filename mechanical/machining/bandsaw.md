@@ -8,7 +8,8 @@ A vertical bandsaw is a stationary blade that allows for the machinist to move t
 ![Vertical Bandsaw](/uploads/vertical-bandsaw.jpg "Vertical Bandsaw")
 __How to Use__
 1. Turn on the blade.
-2. Slowly push the workpiece into the blade. Be mindful of fingers being in the path of the blade. If necessary, use a piece of wood or other stock material to push the workpiece to avoid fingers being in the path of the blade.
+2. Slowly push the workpiece into the blade. Be mindful of fingers being in the path of the blade. 
+~If necessary, use a piece of wood or other stock material to push the workpiece to avoid fingers being in the path of the blade.~
 3. Turn off the blade.
 4. Clean off metal shaving and dust that may have been created during cut.
 
