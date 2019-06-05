@@ -29,6 +29,7 @@ __How to Use__
 8. Once the cut has been finished, turn off the blade and remove part. Be careful- part may be hot after the cut.
 # Safety
 * Know where the E- Stop is
+* Can __not__ make thin cuts. Need at least 3 teeth in contact with the piece at all times.
 * If there is material hanging off the end, place supports under the free end
 * L- Brackets should be cut with the corner with facing up. This way the blade is cutting a consistent amount throughout the whole cut.
 # Materials that can be cut
