@@ -7,7 +7,7 @@ More Information:
 ## Vertical Bandsaw
 A vertical bandsaw is a stationary blade that allows for the machinist to move their workpiece into the blade. This allows for complex shapes and angles to be cut out of the workpiece.
 
-![Vertical Bandsaw](/uploads/vertical-bandsaw.jpg "Vertical Bandsaw")
+![Vertical Bandsaw](/uploads/machining-tools/vertical-bandsaw.jpg "Vertical Bandsaw")
 
 __How to Use__
 1. Turn on the blade.
@@ -19,7 +19,7 @@ __How to Use__
 ## Horizontal Bandsaw
 A horizontal bandsaw holds the workpiece still while the blade swings down through the piece. It is often used to cut long materials such as pipes, bars, and L-bracket stock material.
 
-![Horizontal Bandsaw](/uploads/horizontal-bandsaw.jpg "Horizontal Bandsaw")
+![Horizontal Bandsaw](/uploads/machining-tools/horizontal-bandsaw.jpg "Horizontal Bandsaw")
 
 __How to Use__
 1. Raise the arm and turn the knob to lock the position.
