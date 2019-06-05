@@ -12,6 +12,7 @@ __How to Use__
 3. Turn off the blade
 
 ## Horizontal Bandsaw
+A horizontal bandsaw holds the workpiece still while the blade swings down through the piece. 
 
 
 # Materials
