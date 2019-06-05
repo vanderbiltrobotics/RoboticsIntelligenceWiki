@@ -33,7 +33,7 @@ __How to Use__
 # Safety
 * Know where the E- Stop is
 * Can __not__ make thin cuts. Need at least 3 teeth in contact with the piece at all times.
-* If there is material hanging off the end, place supports under the free end
+* If there is material hanging off the end, place supports under the free end of the material.
 ![Horizontal Bandsaw Support](/uploads/machining-tools/horizontal-bandsaw-support.jpg "Horizontal Bandsaw Support")
 * L - Brackets should be cut with the corner with facing up. This way the blade is cutting a consistent amount throughout the whole cut.
 				![Angled Steel](/uploads/machining-tools/angled-steel.jpg "Angled Steel")
