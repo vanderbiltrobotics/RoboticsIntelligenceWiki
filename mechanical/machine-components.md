@@ -2,11 +2,11 @@
 <!-- SUBTITLE: Introductions to various commonly used machine components -->
 
 # Table of Contents
-* [Bearings](/mechanical/machine-components/bearings)
-* [Belts](/mechanical/machine-components/belts)
-* [Fasteners](/mechanical/machine-components/fasteners)
-* [Gears](/mechanical/machine-components/gears)
-* [Lead Screw](/mechanical/machine-components/lead-screw)
-* [Motors](/mechanical/machine-components/motors)
-* [Shafts](/mechanical/machine-components/shafts)
-* [Shaft Couplers](/mechanical/machine-components/shaft-couplers)
+* [Bearings-Not Done](/mechanical/machine-components/bearings)
+* [Belts-Not Done](/mechanical/machine-components/belts)
+* [Fasteners-Not Done](/mechanical/machine-components/fasteners)
+* [Gears-Not Done](/mechanical/machine-components/gears)
+* [Lead Screw-Not Done](/mechanical/machine-components/lead-screw)
+* [Motors-Not Done](/mechanical/machine-components/motors)
+* [Shafts-Not Done](/mechanical/machine-components/shafts)
+* [Shaft Couplers-Not Done](/mechanical/machine-components/shaft-couplers)
