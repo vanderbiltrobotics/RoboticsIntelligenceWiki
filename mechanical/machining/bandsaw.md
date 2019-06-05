@@ -28,4 +28,7 @@ __How to Use__
 8. Once the cut has been finished, turn off the blade and remove part. Be careful- part may be hot after the cut.
 # Safety
 # Materials that can be cut
+* Wood
+* Aluminum
+* Steel
 
