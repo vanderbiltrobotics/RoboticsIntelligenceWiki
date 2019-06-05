@@ -4,5 +4,6 @@
 # Grinding Belt
 ![Belt Grinder](/uploads/machining-tools/belt-grinder.jpg "Belt Grinder")
 # Grinding Wheel
+![Grinding Wheel](/uploads/machining-tools/grinding-wheel.jpg "Grinding Wheel")
 # Safety
 # More Information
