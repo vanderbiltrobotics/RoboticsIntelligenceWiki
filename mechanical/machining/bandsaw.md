@@ -13,7 +13,11 @@ __How to Use__
 
 ## Horizontal Bandsaw
 A horizontal bandsaw holds the workpiece still while the blade swings down through the piece. It is often used to cut long materials such as pipes, bars, and L-bracket stock material.
+*INSERT PICTURE*
 
 __How to Use__
-1. Raise the blade and turn the knob to lock 
+1. Raise the arm and turn the knob to lock the position
+2. Position the material and tighten the clamp to a snug fit
+3. Unlock and lower the arm to slightly above the material and check the alignment of the blade with the marking.
+4. Tighten the clamp 
 # Materials
