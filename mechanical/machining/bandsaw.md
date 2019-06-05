@@ -38,7 +38,9 @@ __How to Use__
 
 # Materials that can be cut
 * Wood
+	* "0.25
 * Aluminum
+	* "0.25
 * Steel
 # More Information
 
