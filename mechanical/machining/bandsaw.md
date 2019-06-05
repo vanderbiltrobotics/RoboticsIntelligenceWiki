@@ -38,9 +38,10 @@ __How to Use__
 
 # Materials that can be cut
 * Wood
-	* "0.25
+	* 0.25 inches
 * Aluminum
-	* "0.25
+	* 0.25 inches
 * Steel
 # More Information
-
+More information about vertical/horizontal bandsaws
+https://openoregon.pressbooks.pub/manufacturingprocesses45/chapter/chapter-4-bandsaw/
