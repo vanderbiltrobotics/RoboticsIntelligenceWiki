@@ -3,5 +3,6 @@
 
 # Types
 ## Vertical Bandsaw
+A vertical bandsaw
 ## Horizontal Bandsaw
 # Materials
