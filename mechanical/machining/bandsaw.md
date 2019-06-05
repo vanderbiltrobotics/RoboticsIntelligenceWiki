@@ -30,6 +30,7 @@ __How to Use__
 # Safety
 * Know where the E- Stop is
 * If there is material hanging off the end, place supports under the free end
+* L- Brackets should be cut with the corner with facing up. This way the blade is cutting a consistent amount throughout the whole cut.
 # Materials that can be cut
 * Wood
 * Aluminum
