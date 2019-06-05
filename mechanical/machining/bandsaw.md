@@ -11,4 +11,8 @@ __How to Use__
 2. Slowly push the workpiece into the blade. Be mindful of fingers being in the path of the blade. If necessary, use a piece of wood or other stock material to push the workpiece to avoid fingers being in the path of the blade.
 
 ## Horizontal Bandsaw
+
+-----
+
+
 # Materials
