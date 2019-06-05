@@ -9,7 +9,7 @@ A vertical bandsaw is a stationary blade that allows for the machinist to move t
 __How to Use__
 1. Turn on the blade.
 2. Slowly push the workpiece into the blade. Be mindful of fingers being in the path of the blade. 
-~If necessary, use a piece of wood or other stock material to push the workpiece to avoid fingers being in the path of the blade.~
+-If necessary, use a piece of wood or other stock material to push the workpiece to avoid fingers being in the path of the blade.
 3. Turn off the blade.
 4. Clean off metal shaving and dust that may have been created during cut.
 
@@ -26,4 +26,6 @@ __How to Use__
 6. Adjust the rate of the arm being lowered by turning the knob.
 7. Once comfortable with the rate, let gravity control the arm dropping and allow the blade to cut through the piece
 8. Once the cut has been finished, turn off the blade and remove part. Be careful- part may be hot after the cut.
-# Materials
+# Safety
+# Materials that can be Cut
+
