@@ -4,9 +4,9 @@
 # Table of Contents
 * [Bearings](/mechanical/machine-components/bearings)
 * [Belts](/mechanical/machine-components/belts)
-* [Gears](/mechanical/machine-components/gears)
 * [Fasteners](/mechanical/machine-components/fasteners)
-* [Motors](/mechanical/machine-components/motors)
+* [Gears](/mechanical/machine-components/gears)
 * [Lead Screw](/mechanical/machine-components/lead-screw)
+* [Motors](/mechanical/machine-components/motors)
 * [Shafts](/mechanical/machine-components/shafts)
 * [Shaft Couplers](/mechanical/machine-components/shaft-couplers)
