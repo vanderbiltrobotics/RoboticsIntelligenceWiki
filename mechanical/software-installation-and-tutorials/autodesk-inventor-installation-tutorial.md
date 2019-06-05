@@ -1,4 +1,4 @@
 <!-- TITLE: Autodesk Inventor Install Tutorial -->
-<!-- SUBTITLE: A quick summary of Autodesk Inventor Installation Tutorial -->
+<!-- How to install Autodesk Inventor for use on the Robotics Team -->
 
 # Header
