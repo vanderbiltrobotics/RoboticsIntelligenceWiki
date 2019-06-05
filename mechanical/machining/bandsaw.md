@@ -38,7 +38,6 @@ __How to Use__
 
 # Materials that can be cut
 * Wood
-	* 0.25 inches thick
 * Aluminum
 	* 0.25 inches thick
 * Steel
