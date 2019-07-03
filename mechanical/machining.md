@@ -3,7 +3,7 @@
 
 # Machine Introductions
 * [3D printers-Not Done](/mechanical/machining/3d-printer)
-* [Bandsaw-Not Done](/mechanical/machining/bandsaw)
+* [Bandsaw](/mechanical/machining/bandsaw)
 * [CNC-Not Done](/mechanical/machining/cnc)
 * [Grinding Belt and Wheel-Not Done](/mechanical/machining/grinder)
 * [Laser cutter-Not Done](/mechanical/machining/laser-cutter)
