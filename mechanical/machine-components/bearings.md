@@ -8,17 +8,22 @@ A bearing constrains relative motion to only the desired motion, and reduces fri
 ![Bc 881 Eac 5745 483 D 8 D 41 Bc 765 B 01822 E Bearings Image Extra Large](/uploads/bc-881-eac-5745-483-d-8-d-41-bc-765-b-01822-e-bearings-image-extra-large.jpeg "Bc 881 Eac 5745 483 D 8 D 41 Bc 765 B 01822 E Bearings Image Extra Large")
 
 # Types
+
 ## Linear
-Allows for rotation around and movement along the shaft/round beam. 
+Linear bearings allow for rotation around and movement along the shaft/beam. Linear slides serve a similar purpose, usually for a non-round beam.
 ![Linearbearing](/uploads/linearbearing.png "Linearbearing")
-## Ball or Roller
-Has to be pressed up against a retaining ring, stepped shaft, or something similar. Resists radial and a small amount of axial load (not meant to). Also, many ball bearings can be used for linear, thrust, and tapered bearings, but are most commonly used for radial bearings, which is why we name it as such.
+## Radial
+Radial bearings Has to be pressed up against a retaining ring, stepped shaft, or something similar. Resists radial and a small amount of axial load (not meant to). Also, these are often simply called ball or roller bearings depending on what it actually uses. 
 ![Ballbearing](/uploads/ballbearing.png "Ballbearing")
 ## Thrust
 Also has to be pressed up against a retaing ring, steeped shaft, or something similar. Resists axial and a small amount of radial load (not meant to). Can be something as simple as a washer.
 ![Thrust](/uploads/thrust.png "Thrust")
 ## Angular-Contact or Tapered
-Pushes the ball bearings against an angled side inside the bearing - allowing it to resist both axial and radial load well.
+Tapered bearings have the ball bearings against an angled side inside, making any load on it from the sides or the top push on the rollers diagonally. This allows it to resist both axial and radial load well, but often time these bearings are overspecced for what is needed. Additionally, most tapered bearings don't angle both ways, and thus can only resist axial load in one directions.
+![Download](/uploads/machine-components/download.jpg "Download")![Download](/uploads/machine-components/download.jpg "Download")
+
+## Seal Type
+
 ![Tapered](/uploads/tapered.png "Tapered")
 # When to Use (what you're probably here for)
 The short answer is that you use a bearing when you want to constrain/support a moving part without creating much friction. 
