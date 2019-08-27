@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Introductions to various commonly used machine components -->
 
 # Table of Contents
-* [Bearings-Not Done](/mechanical/machine-components/bearings)
+* [Bearings](/mechanical/machine-components/bearings)
 * [Belts-Not Done](/mechanical/machine-components/belts)
 * [Fasteners-Not Done](/mechanical/machine-components/fasteners)
 * [Gears-Not Done](/mechanical/machine-components/gears)
