@@ -9,22 +9,22 @@ A bearing constrains relative motion to only the desired motion, and reduces fri
 
 # Types
 
-## Linear
+### Linear
 Linear bearings allow for rotation around and movement along the shaft/beam. Linear slides serve a similar purpose, usually for a non-round beam.
 ![Linearbearing](/uploads/linearbearing.png "Linearbearing")
-## Radial
+### Radial
 Radial bearings Has to be pressed up against a retaining ring, stepped shaft, or something similar. Resists radial and a small amount of axial load (not meant to). Also, these are often simply called ball or roller bearings depending on what it actually uses. 
 ![Ballbearing](/uploads/ballbearing.png "Ballbearing")
-## Thrust
+### Thrust
 Also has to be pressed up against a retaing ring, steeped shaft, or something similar. Resists axial and a small amount of radial load (not meant to). Can be something as simple as a washer.
 ![Thrust](/uploads/thrust.png "Thrust")
-## Angular-Contact or Tapered
+### Angular-Contact or Tapered
 Tapered bearings have the ball bearings against an angled side inside, making any load on it from the sides or the top push on the rollers diagonally. This allows it to resist both axial and radial load well, but often time these bearings are overspecced for what is needed. Additionally, most tapered bearings don't angle both ways, and thus can only resist axial load in one directions.
 ![Download](/uploads/machine-components/download.jpg "Download")![Download](/uploads/machine-components/download.jpg "Download")
 
-## Plain 
+### Plain 
 Sometimes, a bearing might not have any moving parts, and simply rely on a smooth, slippery surface to facilitate motion. These are called plain bearings, and specific examples include bushings and washers. They are obviously very simple and are also easy to clean, but be careful as they usually can't handle as high speeds or loads and dust will reduce the performance greatly.
-## Seal Type
+### Seal Type
 Since most bearings use balls or rollers, it is important to keep dust or other particles from contaminating the insides. Bearings are typically categorized as open, shielded, or sealed in McMaster. Open bearings are much better at dissipating heat, although usually this is not that much of an issue. If a component is going to get lots of material going near or on it, it should be sealed to protect the bearing from the dust. Ideally, any bearing not in a sealed area of the robot would be sealed.
 
 ![Tapered](/uploads/tapered.png "Tapered")
