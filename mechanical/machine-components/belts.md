@@ -23,4 +23,6 @@ Also called a serpentine belt, these belts have ridges going across the belt, ma
 Belt slippage happens when the force placed on the belt is larger than the friction between the belt and the drive pulley. This is usually caused by a low amount of tension on the belt, which is discussed in more detail at https://dreisilker.com/blog/how-improper-belt-tension-can-affect-your-belt-drive-system/. If a belt is being used to power an excavator, slippage is not necessarily bad, as it is much better for the belt to slip when it jams itself on a large rock than to snap the belt from overtensioning.
 
 ### Creep
-Belt creep is the elongation of the belt due to the constant stress being put on it 
+Belt creep is the elongation of the belt due to the constant stress being put on it. This will happen faster the more stress that is put on it (load, tension).
+### Misalignment
+Belt misalignment occurs most often with flat or conveyor belts, where the belt tries to go off the side of a pulley. Likely causes are a slight discrepancy in the tension between the two sides of the belt or misalignment between the pulleys either translationally or rotationally. Hence, it is important to assemble the pulleys fully aligned and be able increase the tension on either side of a wider belt.
