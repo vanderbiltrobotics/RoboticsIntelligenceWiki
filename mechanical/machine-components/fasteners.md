@@ -12,6 +12,7 @@ Fasteners are a very broad group of mechanical devices that joins or fixes two o
 ## Rivets
 ## Retaining Rings
 ![Rsz Download 1](/uploads/machine-components/rsz-download-1.jpg "Rsz Download 1")
+Retaining rings are used to fasten or transfer load from components onto a shaft. They are expandable rings that you "snap" into a groove, where the portion outside of the groove prevents any part on the shaft from moving past it. Thus, they are frequently used to secure a gear or wheel on a shaft where an entire coupler is not necessary. For choosing a retaining ring type or material, I suggest https://www.machinedesign.com/archive/using-retaining-rings-properly.
 ## Clevis Pins
 ![Rsz 1 Wfd 4 As 01](/uploads/machine-components/rsz-1-wfd-4-as-01.jpg "Rsz 1 Wfd 4 As 01")
-Clevis pins are often used to fasten parts that need to be quickly disassembled, making bolts or rivets undesirable. It is simply a rod with a hole on the end to insert a split pin, securing the rod. Since the pin doesn't actually place any pressure between the two parts, clevis pins are not good at securing rotation or vibration. 
+Clevis pins are often used to fasten parts that need to be quickly disassembled, where bolts and rivets are undesirable. It is simply a rod with a hole on the end to insert a split pin, securing the rod. Since the pin doesn't actually place any pressure between the two parts, clevis pins are not good at securing rotation or vibration. 
