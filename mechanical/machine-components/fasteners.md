@@ -11,7 +11,7 @@ Fasteners are a very broad group of mechanical devices that joins or fixes two o
 ## Nails and Screws
 ## Rivets
 ## Retaining Rings
+![Rsz Download 1](/uploads/machine-components/rsz-download-1.jpg "Rsz Download 1")
 ## Clevis Pins
 ![Rsz 1 Wfd 4 As 01](/uploads/machine-components/rsz-1-wfd-4-as-01.jpg "Rsz 1 Wfd 4 As 01")
-Clevis pins
-
+Clevis pins are often used to fasten parts that need to be quickly disassembled, making bolts or rivets undesirable. It is simply a rod with a hole on the end to insert a split pin, securing the rod. Since the pin doesn't actually place any pressure between the two parts, clevis pins are not good at securing rotation or vibration. 
