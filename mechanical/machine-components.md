@@ -4,7 +4,7 @@
 # Table of Contents
 * [Bearings](/mechanical/machine-components/bearings)
 * [Belts](/mechanical/machine-components/belts)
-* [Fasteners-UNFIN](/mechanical/machine-components/fasteners)
+* [Fasteners](/mechanical/machine-components/fasteners)
 * [Gears-Not Done](/mechanical/machine-components/gears)
 * [Lead Screw-Not Done](/mechanical/machine-components/lead-screw)
 * [Motors-Not Done](/mechanical/machine-components/motors)
