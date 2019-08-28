@@ -7,9 +7,11 @@ Fasteners are a very broad group of mechanical devices that joins or fixes two o
 # Types
 ## Bolts
 ![Rsz Home Mid 01](/uploads/machine-components/rsz-home-mid-01.jpg "Rsz Home Mid 01")
-Bolts are the most common type of fastener we use on the robot, as they are simple and non-permanent. [UNFIN]  http://blog.mutualscrew.com/2015/07/07/different-types-of-bolts/
-### Bolt Sizing
+Bolts are the most common type of fastener we use on the robot, as they are simple and non-permanent. The typical bolts used on this team are socket head (as phillips head screw strip easier, among other reasons). To negate the effects of vibration loosening the bolt, locktite and/or locknuts are used. To learn about larger varieties of bolts, there are much better resources than this article, such as http://blog.mutualscrew.com/2015/07/07/different-types-of-bolts/.
 
+When picking bolts, it is important to consider strength, size, and standardization. The first is honestly not much of a consideration, as it is very unlikely for you to design a system capable of shearing a bolt of any reasonable size, but do use common sense. Same thing for size, make sure your bolt can go through all of the parts it connects, and there is clearance for both the head and the nut. (Might seem like a dumb thing to mention, but there are many cases where someone has designed a system where they didn't take into account the bolts used until the end and had to redesign due to not havign the clearance necessary.)  Lastly, standardization is important not just for bolts, but all fasteners. Choosing 5 different sizes of fasteners for a subsystem with no particular reason adds unnecessary complexity. For this reason , we typically use 10-24 thread size bolts. 
+### Thread Sizing
+Thread size for bolts are defined in either imperial or metric (as is most things in engineering). For the imperial sizing, bolts are defined with "x-y", where x defines the bolt diameter (use a chart to find out this diameter in inches), and y defines the thread density (y threads per inch). For the metric system, the entire system is arbitrary, so google "metric thread size chart" to find what M4, M6, etc. mean. 
 ## Nails and Screws
 Neither of these are used on the robot, so this is more of an explanation of why these two commonly used fasteners are bad for our application. Nails are bad because they are much better suited for woodworking. Screws are bad because they require that the hole be threaded to work, making bolts just better to use.
 ## Rivets
