@@ -9,7 +9,10 @@ Fasteners are a very broad group of mechanical devices that joins or fixes two o
 
 ### Bolt Sizing
 ## Nails and Screws
+Neither of these are used on the robot, so this is more of an explanation of why these two commonly used fasteners are bad for our application. Nails are bad because they are much better suited for woodworking. Screws are bad because they require that the hole be threaded to work, making bolts just better to use.
 ## Rivets
+![Rsz 71 Lmu 3 Gtcgl Sx 425](/uploads/machine-components/rsz-71-lmu-3-gtcgl-sx-425.jpg "Rsz 71 Lmu 3 Gtcgl Sx 425")
+Rivets are "permanent" fastener, that works by 
 ## Retaining Rings
 ![Rsz Download 1](/uploads/machine-components/rsz-download-1.jpg "Rsz Download 1")
 Retaining rings are used to fasten or transfer load from components onto a shaft. They are expandable rings that you "snap" into a groove, where the portion outside of the groove prevents any part on the shaft from moving past it. Thus, they are frequently used to secure a gear or wheel on a shaft where an entire coupler is not necessary. For choosing a retaining ring type or material, I suggest https://www.machinedesign.com/archive/using-retaining-rings-properly.
