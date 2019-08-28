@@ -15,7 +15,12 @@ Keyed shafts are just normal shafts with a keyseat. A keyseat is a small rectang
 
 
 In almost all situations involving a motor, **you will need to use a keyed shaft.** Other options for transmitting force from the shaft to an external object include set screws or press fits. However, set screws often slip when too much force is applied, as it is purely friction between the set screw and the shaft that is coupling the two objects together. Press fits are effective but very hard to machine, and it is better to assume that you will not be able to machine your shaft within the required <0.001" accuracy needed for a good press fit. 
-## D-Profile Shaft
 
-# Stepped Down Shafts
-# Retaining Ring Grooves
+### D-Profile Shaft
+This shaft has a flat across the length, making set screws much more secure. To slip rotationally, the set screw has to deform the flat, which is near impossible.
+
+### Stepped Down Shafts
+Shafts don't necessarily have the same diameter all around, and may include a portion that is thinner in diameter (stepped down). This is useful to attach components such as bearings and pulleys with different inner diameters.
+
+### Retaining Ring Grooves
+Retaining rings are a type of fastener that snaps into a groove machined onto the shaft, affixing a part like a gear onto it. Make sure to put correctly sized retaining ring grooves in the shaft if you want to use retainging rings (which you probably will).
