@@ -1,5 +1,5 @@
 <!-- TITLE: Gears -->
-<!-- SUBTITLE: A quick ~~summary of Gears -->
+<!-- SUBTITLE: A quick ~summary of~ link to Gears -->
 
 # The link to KHK Gears
 Gears translate motion to a different axis, as well as translate between torque and speed. There is very good and detailed documentation on these parts, so the purpose of this document is to lead newcomers to good resources and talk about the 
