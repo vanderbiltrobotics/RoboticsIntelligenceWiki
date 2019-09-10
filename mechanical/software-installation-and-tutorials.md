@@ -10,4 +10,4 @@
 
 ## Introduction Tutorials
 * [Autodesk Inventor Basic Introduction](/mechanical/software-installation-and-tutorials/autodesk-inventor-basic-introduction)
-* [How To Do "x" on Onshape](/mechanical/software-installation-and-tutorials/how-to-do-"x"-on-Onshape)
+* [How To Do "x" On Onshape](/mechanical/software-installation-and-tutorials/how-to-do-"x"-on-Onshape)
