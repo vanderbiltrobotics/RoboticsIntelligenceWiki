@@ -1,4 +1,4 @@
-![D Profile Shaft](/uploads/machine-components/d-profile-shaft.jpg "D Profile Shaft")<!-- TITLE: Motors -->
+<!-- TITLE: Motors -->
 <!-- SUBTITLE: Motor Selection -->
 
 # Overview
