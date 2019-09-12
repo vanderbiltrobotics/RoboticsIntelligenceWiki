@@ -9,4 +9,4 @@ While you can surely find motors from other locations/vendors, we will typically
 ## Servos
 Servo motors are smaller motors that are position controlled instead of speed. This means that they are much more precise, at the cost of torque and range of motion. It is very rare for a servo that we would be able to get to move more than a small camera or sensor. 
 ## Linear Actuators
-Linear actuators is a motor that creates linear motrion, useful for extending in a straight line. Specs to look for are the fully extended length, the fully contracted length, and the maximum load it can support.
+Linear actuators is a motor that creates linear motion, useful for extending in a straight line. Specs to look for are the fully extended length, the fully contracted length, and the maximum load it can support.
