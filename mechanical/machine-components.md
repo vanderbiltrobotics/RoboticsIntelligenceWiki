@@ -5,7 +5,7 @@
 * [Bearings](/mechanical/machine-components/bearings)
 * [Belts](/mechanical/machine-components/belts)
 * [Fasteners](/mechanical/machine-components/fasteners)
-* [Gears-Not Done](/mechanical/machine-components/gears)
+* [Gears](/mechanical/machine-components/gears)
 * [Motors](/mechanical/machine-components/motors)
 * [Shafts](/mechanical/machine-components/shafts)
 * [Shaft Couplers](/mechanical/machine-components/shaft-couplers)
