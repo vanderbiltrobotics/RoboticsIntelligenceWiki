@@ -1,5 +1,5 @@
 <!-- TITLE: Mechanical -->
-<!-- SUBTITLE: A quick summary of Mechanical -->
+<!-- SUBTITLE: An Introduction to Design and Fabrication -->
 
 # Table of Contents
 * [Design Review and Broad Design Concepts](/mechanical/design)
